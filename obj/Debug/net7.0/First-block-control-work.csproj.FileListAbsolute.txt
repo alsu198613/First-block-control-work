@@ -1,0 +1,15 @@
+C:\Users\Александра\Documents\Обучение-Разработчик\I четверть\Контрольная работа\First-block-control-work\bin\Debug\net7.0\First-block-control-work.exe
+C:\Users\Александра\Documents\Обучение-Разработчик\I четверть\Контрольная работа\First-block-control-work\bin\Debug\net7.0\First-block-control-work.deps.json
+C:\Users\Александра\Documents\Обучение-Разработчик\I четверть\Контрольная работа\First-block-control-work\bin\Debug\net7.0\First-block-control-work.runtimeconfig.json
+C:\Users\Александра\Documents\Обучение-Разработчик\I четверть\Контрольная работа\First-block-control-work\bin\Debug\net7.0\First-block-control-work.dll
+C:\Users\Александра\Documents\Обучение-Разработчик\I четверть\Контрольная работа\First-block-control-work\bin\Debug\net7.0\First-block-control-work.pdb
+C:\Users\Александра\Documents\Обучение-Разработчик\I четверть\Контрольная работа\First-block-control-work\obj\Debug\net7.0\First-block-control-work.csproj.AssemblyReference.cache
+C:\Users\Александра\Documents\Обучение-Разработчик\I четверть\Контрольная работа\First-block-control-work\obj\Debug\net7.0\First-block-control-work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александра\Documents\Обучение-Разработчик\I четверть\Контрольная работа\First-block-control-work\obj\Debug\net7.0\First-block-control-work.AssemblyInfoInputs.cache
+C:\Users\Александра\Documents\Обучение-Разработчик\I четверть\Контрольная работа\First-block-control-work\obj\Debug\net7.0\First-block-control-work.AssemblyInfo.cs
+C:\Users\Александра\Documents\Обучение-Разработчик\I четверть\Контрольная работа\First-block-control-work\obj\Debug\net7.0\First-block-control-work.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Documents\Обучение-Разработчик\I четверть\Контрольная работа\First-block-control-work\obj\Debug\net7.0\First-block-control-work.dll
+C:\Users\Александра\Documents\Обучение-Разработчик\I четверть\Контрольная работа\First-block-control-work\obj\Debug\net7.0\refint\First-block-control-work.dll
+C:\Users\Александра\Documents\Обучение-Разработчик\I четверть\Контрольная работа\First-block-control-work\obj\Debug\net7.0\First-block-control-work.pdb
+C:\Users\Александра\Documents\Обучение-Разработчик\I четверть\Контрольная работа\First-block-control-work\obj\Debug\net7.0\First-block-control-work.genruntimeconfig.cache
+C:\Users\Александра\Documents\Обучение-Разработчик\I четверть\Контрольная работа\First-block-control-work\obj\Debug\net7.0\ref\First-block-control-work.dll
